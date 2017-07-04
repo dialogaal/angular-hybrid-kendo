@@ -1,0 +1,1 @@
+import '../node_modules/@progress/kendo-ui/js/kendo.all.js'
